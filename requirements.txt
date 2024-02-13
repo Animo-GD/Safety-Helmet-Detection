@@ -1,0 +1,112 @@
+absl-py==2.1.0
+archspec @ file:///croot/archspec_1697725767277/work
+asttokens==2.4.0
+backcall==0.2.0
+boltons @ file:///C:/ci_311/boltons_1677729932371/work
+Brotli @ file:///C:/ci_311/brotli-split_1676435766766/work
+cachetools==5.3.2
+certifi==2023.7.22
+cffi @ file:///C:/b/abs_924gv1kxzj/croot/cffi_1700254355075/work
+chardet==4.0.0
+charset-normalizer @ file:///tmp/build/80754af9/charset-normalizer_1630003229654/work
+colorama==0.4.6
+comm==0.1.4
+conda @ file:///C:/b/abs_e2y6l8qwgd/croot/conda_1706738009310/work
+conda-libmamba-solver @ file:///croot/conda-libmamba-solver_1706733287605/work/src
+conda-package-handling @ file:///C:/b/abs_b9wp3lr1gn/croot/conda-package-handling_1691008700066/work
+conda_package_streaming @ file:///C:/b/abs_6c28n38aaj/croot/conda-package-streaming_1690988019210/work
+contourpy==1.2.0
+cryptography @ file:///C:/b/abs_e8cnom_zw_/croot/cryptography_1702071486468/work
+cycler==0.10.0
+debugpy==1.8.0
+decorator==5.1.1
+defusedxml==0.7.1
+distro @ file:///C:/b/abs_a3uni_yez3/croot/distro_1701455052240/work
+executing==2.0.0
+filelock @ file:///C:/b/abs_f2gie28u58/croot/filelock_1700591233643/work
+fonttools==4.47.2
+fsspec==2023.4.0
+gmpy2 @ file:///C:/ci_311/gmpy2_1677743390134/work
+google-auth==2.27.0
+google-auth-oauthlib==1.2.0
+grpcio==1.60.1
+idna==2.10
+ipykernel==6.25.2
+ipython==8.16.1
+jedi==0.19.1
+Jinja2 @ file:///C:/b/abs_f7x5a8op2h/croot/jinja2_1706733672594/work
+jsonpatch @ file:///tmp/build/80754af9/jsonpatch_1615747632069/work
+jsonpointer==2.1
+jupyter_client==8.3.1
+jupyter_core==5.3.2
+kiwisolver==1.4.5
+libmambapy @ file:///C:/b/abs_2euls_1a38/croot/mamba-split_1704219444888/work/libmambapy
+Markdown==3.5.2
+MarkupSafe @ file:///C:/b/abs_ecfdqh67b_/croot/markupsafe_1704206030535/work
+matplotlib==3.8.2
+matplotlib-inline==0.1.6
+menuinst @ file:///C:/b/abs_099kybla52/croot/menuinst_1706732987063/work
+mkl-fft @ file:///C:/b/abs_19i1y8ykas/croot/mkl_fft_1695058226480/work
+mkl-random @ file:///C:/b/abs_edwkj1_o69/croot/mkl_random_1695059866750/work
+mkl-service==2.4.0
+mpmath @ file:///C:/b/abs_7833jrbiox/croot/mpmath_1690848321154/work
+nest-asyncio==1.5.8
+networkx @ file:///C:/b/abs_e6gi1go5op/croot/networkx_1690562046966/work
+numpy @ file:///C:/b/abs_16b2j7ad8n/croot/numpy_and_numpy_base_1704311752418/work/dist/numpy-1.26.3-cp311-cp311-win_amd64.whl#sha256=5f2c4b54fd5d52b9fb18e32607c79b03cf14665cecce8a5a10e2950559df4651
+oauthlib==3.2.2
+opencv-python==4.9.0.80
+opencv-python-headless==4.8.0.74
+packaging==23.2
+pandas==2.2.0
+parso==0.8.3
+pickleshare==0.7.5
+Pillow @ file:///C:/b/abs_20ztcm8lgk/croot/pillow_1696580089746/work
+platformdirs==3.11.0
+pluggy @ file:///C:/ci_311/pluggy_1676422178143/work
+prompt-toolkit==3.0.39
+protobuf==4.23.4
+psutil==5.9.5
+pure-eval==0.2.2
+pyasn1==0.5.1
+pyasn1-modules==0.3.0
+pycosat @ file:///C:/b/abs_31zywn1be3/croot/pycosat_1696537126223/work
+pycparser @ file:///tmp/build/80754af9/pycparser_1636541352034/work
+Pygments==2.16.1
+pyOpenSSL @ file:///C:/b/abs_08f38zyck4/croot/pyopenssl_1690225407403/work
+pyparsing==3.1.1
+PySocks @ file:///C:/ci_311/pysocks_1676425991111/work
+python-dateutil==2.8.2
+python-dotenv==1.0.1
+python-magic==0.4.27
+pytz==2024.1
+pywin32==306
+PyYAML @ file:///C:/b/abs_782o3mbw7z/croot/pyyaml_1698096085010/work
+pyzmq==25.1.1
+requests @ file:///C:/b/abs_316c2inijk/croot/requests_1690400295842/work
+requests-oauthlib==1.3.1
+requests-toolbelt==1.0.0
+roboflow==1.1.19
+rsa==4.9
+ruamel.yaml @ file:///C:/ci_311/ruamel.yaml_1676439214109/work
+scipy==1.12.0
+seaborn==0.13.2
+six==1.16.0
+stack-data==0.6.3
+supervision==0.18.0
+sympy @ file:///C:/b/abs_82njkonm7f/croot/sympy_1701397685028/work
+tensorboard==2.15.1
+tensorboard-data-server==0.7.2
+torch==2.1.2
+torchaudio==2.1.2
+torchvision==0.16.2
+tornado==6.3.3
+tqdm @ file:///C:/b/abs_f76j9hg7pv/croot/tqdm_1679561871187/work
+traitlets==5.10.1
+truststore @ file:///C:/b/abs_55z7b3r045/croot/truststore_1695245455435/work
+typing_extensions @ file:///C:/b/abs_72cdotwc_6/croot/typing_extensions_1705599364138/work
+tzdata==2023.4
+urllib3 @ file:///C:/b/abs_9cmlsrm3ys/croot/urllib3_1698257595508/work
+wcwidth==0.2.8
+Werkzeug==3.0.1
+win-inet-pton @ file:///C:/ci_311/win_inet_pton_1676425458225/work
+zstandard==0.19.0

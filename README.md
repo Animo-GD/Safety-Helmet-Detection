@@ -28,6 +28,6 @@ Using Yolov7 I managed to get a weight `best.pt` with **mAP = .64** to detect a 
      ```
    - Camera
       ```bash
-     python detect.py --weights best.pt --no-trace --view-img --conf .5 --source 0
+     python detect.py --weights best.pt --no-trace --conf .5 --source 0
      ```
-6. Result will be in /runs/detect
+6. Result will be in `/runs/detect`

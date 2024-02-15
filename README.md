@@ -31,3 +31,7 @@ Using Yolov7 I managed to get a weight `best.pt` with **mAP = .64** to detect a 
      python detect.py --weights best.pt --no-trace --conf .5 --source 0
      ```
 6. Result will be in `/runs/detect`
+---------
+# Dataset
+- [Roboflow](https://app.roboflow.com/yolovtraining/safety-helmet-waauu/2)
+
